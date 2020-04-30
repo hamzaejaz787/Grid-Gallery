@@ -5,18 +5,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="https://fonts.googleapis.com/css?family=Poppins:400,500&display=swap" rel="stylesheet"/>
+    <link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="./style.css">
-    
+    <title>Picrid</title>
 </head>
 <body>
     <header>
-        <nav class="nav-bar">
-            <ul>
-                <li class="nav-lists"><a href="https://www.instagram.com/hamza_ejaz777/">Instagram</a></li>
-                <li class="nav-lists"><a href="https://github.com/hamzaejaz787">Github</a></li>
-                <li class="nav-lists"><a href="https://www.facebook.com/hamza.scout.07">Facebook</a></li>
-            </ul>
-        </nav>
+        <h1>Grid Gallery</h1>
     </header>
     <section class="img__wrapper">
         <div class="wrapper img1">
@@ -38,5 +33,8 @@
             <img src="./Images/woman-walking-in-the-street-during-night-time-1134166.jpg" alt="woman-walking-in-the-street-during-night-time">
         </div>
     </section>
+    <footer>
+        <p class="contact">Made by <a href="https://github.com/hamzaejaz787">Hamza Ejaz</a></p>
+    </footer>
 </body>
 </html>
